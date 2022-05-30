@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to right top, darkorange, orange, white);
+    font-family: 'Allura', cursive;
+}
+
+#AC{
+    text-shadow: 6px 5px 5px white;
+    color:coral;
+}
+
+
+h3 {
+    font-size: 25px !important;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 35px;
+    padding: 5px;
+    text-shadow: 6px 5px 5px grey;
+    font-size: 17px;
+    letter-spacing: 1px;
+    font-weight: bolder;
+}
+
